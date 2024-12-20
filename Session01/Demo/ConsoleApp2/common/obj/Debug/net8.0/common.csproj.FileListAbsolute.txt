@@ -1,0 +1,11 @@
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\bin\Debug\net8.0\common.deps.json
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\bin\Debug\net8.0\common.dll
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\bin\Debug\net8.0\common.pdb
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\common.AssemblyInfoInputs.cache
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\common.AssemblyInfo.cs
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\common.csproj.CoreCompileInputs.cache
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\common.dll
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\refint\common.dll
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\common.pdb
+E:\Courses\Route\C#\Sessions\Session05\Demo\ConsoleApp2\common\obj\Debug\net8.0\ref\common.dll
